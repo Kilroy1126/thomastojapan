@@ -1,0 +1,30 @@
+baseURL = "https://thomastojapan.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Stip"
+theme = "stip"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Thomas Hardison"
+    bio = "Aspiring Missionary"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:hardison.thomas2@gmail.com"
+
+    [[params.links]]
+        icon = "facebook-messenger"
+        title = "Facebook"
+        url = "https://http://m.me/hardison.thomas"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "user-circle"
+        title = "Blog"
+        url = "https://thomashardison.com/"
+      
