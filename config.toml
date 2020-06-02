@@ -20,7 +20,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
     [[params.links]]
         icon = "facebook-messenger"
         title = "Facebook"
-        url = "https://http://m.me/hardison.thomas"
+        url = "https://m.me/hardison.thomas"
 
     [[params.links]]
         iconset = "fas"
